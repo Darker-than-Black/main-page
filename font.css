@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'europeextregular';
+    src: url('fonts/8508-webfont.eot');
+    src: url('fonts/8508-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/8508-webfont.woff2') format('woff2'),
+         url('fonts/8508-webfont.woff') format('woff'),
+         url('fonts/8508-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family:'a_OldTyperTitulNr';
+    src: url('fonts/a_OldTyperTitulNr.eot');
+    src: url('fonts/a_OldTyperTitulNr.eot?#iefix') format('embedded-opentype'),
+        url('fonts/a_OldTyperTitulNr.woff2') format('woff2'),
+        url('fonts/a_OldTyperTitulNr.woff') format('woff'),
+        url('fonts/a_OldTyperTitulNr.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-0451;
+}
